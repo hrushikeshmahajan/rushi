@@ -1,7 +1,7 @@
 void main()
 {
 int no;
-clrscr();
+
 cout<<"Enter any num: ";
 cin>>no;
 if(no%2==0)
